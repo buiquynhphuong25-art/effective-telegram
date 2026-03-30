@@ -142,3 +142,8 @@ joblib>=1.3.0
 ```
 
 Python 3.9+ recommended.
+## How to run
+
+```bash
+pip install -r requirements.txt
+python run_pipeline.py
